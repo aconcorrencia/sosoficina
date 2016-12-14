@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SosOficinaApp</string>
+    <string name="login_user">Usuário</string>
+    <string name="login_passwword">Senha</string>
+    <string name="login_btn">LOGIN</string>
+</resources>
